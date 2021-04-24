@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Text Stairway to Heaven", "Text Stairway to Heaven\Text Stairway to Heaven.csproj", "{CC0AB5B7-C780-49BE-BE7C-CCF86710232D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0AB5B7-C780-49BE-BE7C-CCF86710232D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0AB5B7-C780-49BE-BE7C-CCF86710232D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0AB5B7-C780-49BE-BE7C-CCF86710232D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0AB5B7-C780-49BE-BE7C-CCF86710232D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B020E3-FB5B-4FB8-9CBC-78AD5B5BC51F}
+	EndGlobalSection
+EndGlobal
